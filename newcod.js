@@ -157,7 +157,7 @@ filterCreaterBUTTON(nameid,namePPS);//если такая кнопка уже с
 let client;
 function readerTxtfile(){
     client = new XMLHttpRequest();
-    client.open('GET', 'src/baseTXT.txt');
+    client.open('GET', 'baseTXT.txt');
     client.onreadystatechange = function() {
     //  l(loadedTXTfileDataBase);
     loadedTXTfileDataBase = client.responseText;
