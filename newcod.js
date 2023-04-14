@@ -151,7 +151,6 @@ filterCreaterBUTTON(nameid,namePPS);//если такая кнопка уже с
     //FinishArrForItem=FinishArrForItem+LineForItem; //список всех
    // FinishArrForItem = FinishArrForItem+LineForItem;
    add_in_database(ITEM)
-a('hi')
  }
 
 }
@@ -238,8 +237,8 @@ function CreateNewButtonPPS(id,namebutt){//создать новую кнопк�
         
 findPPSinDatabase(nametxt)//по id найти строку и загрузить ее в глобальную переменную loaded_txtLINE  
    //теперь нужно его внести и сгенерировать
-      GeneretionFromArr(loaded_txtLINE);//вывод данных из обработонного массива одного ППС в текстбоексы
-           lookingAllTxt();//открывает и обновляет текст бокс для всего текста
+      GeneretionFromArr(loaded_txtLINE);//вывод данных из обработонного массива одного ППС в текстбоекс
+           lookingAllTxt();
         //отключает кнопку при нажатии
          id.style.backgroundColor= 'green';
          id.disabled=true;
