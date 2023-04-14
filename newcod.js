@@ -151,7 +151,7 @@ filterCreaterBUTTON(nameid,namePPS);//если такая кнопка уже с
     //FinishArrForItem=FinishArrForItem+LineForItem; //список всех
    // FinishArrForItem = FinishArrForItem+LineForItem;
    add_in_database(ITEM)
-    lookingAllTxt();//открывает и обновляет текст бокс для всего текста
+a('hi')
  }
 
 }
