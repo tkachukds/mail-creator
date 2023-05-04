@@ -1,8 +1,6 @@
 function logo(){
 const tkachuk = 'by Tkachuk Denis';
-    document.querySelector("#adminpanel").innerHTML = tkachuk;
-    document.querySelector("#adminpanel").style.color = "gray";
-    document.querySelector("#adminpanel").style.opacity = .2;;
+l(tkachuk);
             }
 logo(); 
     
