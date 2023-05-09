@@ -1,6 +1,0 @@
-
-ППС Люберцы, Октябрьский пр-т;	"Алексей Тищенко" <a.tischenko@mo-fonbet.ru>; 	"Оксана Ракчеева" <o.rakcheeva@mo-fonbet.ru>; 	"adm Люберцы Октябрьский пр-т 40a" <adm.lyubertsy@mo-fonbet.ru>; "ППС Люберцы Октябрьский пр-т 40А" <lyubertsy@mo-fonbet.ru>;/
-ППС Люберцы, Инициативная;	"Алексей Тищенко" <a.tischenko@mo-fonbet.ru>; 	"Оксана Ракчеева" <o.rakcheeva@mo-fonbet.ru>; 	"adm  Люберцы ул.Инициативная 14с2" <adm.lyubertsy2@mo-fonbet.ru>; "ППС Люберцы ул.Инициативная 14с2" <lyubertsy2@mo-fonbet.ru>;/
-ППС Электросталь;	"Алексей Тищенко" <a.tischenko@mo-fonbet.ru>; 	"Оксана Ракчеева" <o.rakcheeva@mo-fonbet.ru>; 	"adm Электросталь ул.Горького 15" <adm.electrostal@mo-fonbet.ru>; "ППС Электросталь Горького, 15" <electrostal@mo-fonbet.ru>;/
-ППС Орехово-Зуево;	"Алексей Тищенко" <a.tischenko@mo-fonbet.ru>; 	"Оксана Ракчеева" <o.rakcheeva@mo-fonbet.ru>; 	"adm Орехово-Зуево пл.Привокзальная 3" <adm.orehovozuevo@mo-fonbet.ru>; "ППС Орехово-Зуево Привокзальная пл.д.3" <orehovozuevo@mo-fonbet.ru>;/
-ППС Дзержинский;	"Алексей Тищенко" <a.tischenko@mo-fonbet.ru>; 	"Инесса Фесенко" <i.fesenko@mo-fonbet.ru>; 	"adm Дзержинский ул.Поклонная 9" <adm.dzerjinskiy@mo-fonbet.ru>; "ППС Дзержинский ул.Поклонная 9" <dzerjinskiy@mo-fonbet.ru>;/
